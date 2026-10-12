@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 
 # Bot Configuration
-TOKEN = "8655619720:AAG6qYbDiLjv8G_pR7Nt8kBJF003GCldAd0"
+TOKEN = "8655619720:AAHJwi1OTWQoPB3m9t3ayVU1wZW06EpeX0Q"
 ADMIN_ID = 6913254882  # Apanar Admin ID
 
 bot = telebot.TeleBot(TOKEN, parse_mode="HTML")
